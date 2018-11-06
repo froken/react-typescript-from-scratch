@@ -1,0 +1,11 @@
+{
+  "name": "react-typescript-from-scratch",
+  "version": "1.0.0",
+  "description": "React Typescript Project Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Alla Yevtukh",
+  "license": "MIT"
+}
